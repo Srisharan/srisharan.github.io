@@ -17,7 +17,7 @@ baseurl: ""
 title: Srisharan
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: I study friction and earthquakes
 
 # --- Navigation bar options --- #
 
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "srisharan@psu.edu"
-#  facebook: 
+  google: citations?user=aVqfm9kAAAAJ&hl=en&oi=ao
   github: srisharan
 #  twitter: 
 #  reddit: yourname
