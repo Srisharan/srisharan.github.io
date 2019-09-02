@@ -23,10 +23,12 @@ description: I study friction and earthquakes
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Research: "aboutme"
+  CV: "Srisharan_CV.pdf"
   Publications: "pubs"
-  Google Scholar: "https://www.scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
+  Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
   Resources:
+    - Penn State Geosciences: "https://geosc.psu.edu"
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
     - Jekyll: "https://jekyllrb.com/"
     - GitHub Pages: "https://pages.github.com/"
