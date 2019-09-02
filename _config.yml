@@ -24,7 +24,8 @@ description: I study friction and earthquakes
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "http://deanattali.com"
+  Publications: "pubs"
+  Google Scholar: "https://www.scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
   Resources:
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
     - Jekyll: "https://jekyllrb.com/"
