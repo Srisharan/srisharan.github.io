@@ -27,6 +27,7 @@ navbar-links:
   CV: "Srisharan_CV.pdf"
   Publications: "pubs"
   Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
+  Grants & Awards: "awards"
   Resources:
     - Penn State Geosciences: "https://www.geosc.psu.edu"
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
@@ -110,7 +111,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-146792194-1"
 
 # Google Tag Manager ID
 #gtm: ""
