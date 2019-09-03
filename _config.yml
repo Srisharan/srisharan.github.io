@@ -30,7 +30,8 @@ navbar-links:
   Resources:
     - Penn State Geosciences: "https://www.geosc.psu.edu"
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
-    - Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
+    - Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
+    - Rock Climbing: "rocks"
     - Jekyll: "https://jekyllrb.com/"
     - GitHub Pages: "https://pages.github.com/"
 
@@ -40,7 +41,7 @@ avatar: "/img/Srisharan_Pic.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/Srisharan_Pic.jpg"
 
 # --- Background colour/image options --- #
 
