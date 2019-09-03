@@ -26,11 +26,11 @@ navbar-links:
   Research: "aboutme"
   CV: "Srisharan_CV.pdf"
   Publications: "pubs"
-  Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
   Grants & Awards: "awards"
   Resources:
     - Penn State Geosciences: "https://www.geosc.psu.edu"
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
+    - Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
     - Jekyll: "https://jekyllrb.com/"
     - GitHub Pages: "https://pages.github.com/"
 
