@@ -26,13 +26,12 @@ navbar-links:
   Research: "aboutme"
   CV: "Srisharan_CV.pdf"
   Publications: "pubs"
-  Grants & Awards: "awards"
+  Teaching: "teaching"
   Resources:
-    - Penn State Geosciences: "https://www.geosc.psu.edu"
-    - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
+    - Grants & Awards: "awards"
     - Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
-    - Jekyll: "https://jekyllrb.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
+    - Penn State Geosciences: "https://www.geosc.psu.edu"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
