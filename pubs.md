@@ -4,11 +4,15 @@ title: Publications
 subtitle: 
 ---
 
+#### Peer-reviewed journals
+
 ### 2019:
 **Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2019). [Frictional State Evolution
 during Normal Stress Perturbations Probed with Ultrasonic Waves.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016885) _Journal of Geophysical Research: Solid Earth_, 124, 5469– 5491.  
 
 Fagereng,  Å., et al. [IODP Expedition 372/375 Scientists, including **Shreedharan, S.**]. (2019). [Mixed deformation styles observed on a shallow subduction thrust, Hikurangi margin, New Zealand.](https://pubs.geoscienceworld.org/gsa/geology/article/47/9/872/572583/Mixed-deformation-styles-observed-on-a-shallow) _Geology, 47_(9), 872-876.
+
+Gray, M., et al. [IODP Expedition 372/375 Scientists, including **Shreedharan, S.**]. (2019). [Imaging the Shallow Subsurface Structure of the North Hikurangi Subduction Zone, New Zealand, Using 2‐D Full‐Waveform Inversion.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017793) _Journal of Geophysical Research: Solid Earth_, 124.
 
 ### 2017:
 Huang, G., Kulatilake, P. H. S. W., **Shreedharan, S.**, Cai, S., Song, H. (2017). [3-D Discontinuum Numerical Modeling of Subsidence incorporating Ore Extraction and Backfilling Operations in an Underground Iron Mine in China.](https://www.sciencedirect.com/science/article/pii/S2095268617300617) _International Journal of Mining Science and Technology, 27_(2), 191-201.
