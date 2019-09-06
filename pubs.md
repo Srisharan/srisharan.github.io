@@ -34,5 +34,40 @@ Ram Chandar, K., Sastry, V. R., Hegde, C., **Shreedharan, S.** (2016). [Predicti
 Wallace, L. M., Saffer, D. M., Barnes, P. M., Pecher, I. A., Petronotis, K. E., LeVay, L. J., and the **Expedition 372/375 Scientists**. (2019). [Hikurangi Subduction Margin Coring, Logging, and Observatories.](http://publications.iodp.org/proceedings/372B_375/372B375title.html) Proceedings of the International Ocean Discovery Program, 372B/375: College Station, TX (International Ocean Discovery Program).
 
 ### 2018
-
 Saffer, D. M., Wallace, L. M., Petronotis, K., and the **Expedition 375 Scientists**. (2018). [Expedition 375 Preliminary Report: Hikurangi Subduction Margin Coring and Observatories.](http://publications.iodp.org/preliminary_report/375/375PR.PDF) International Ocean Discovery Program.
+
+## Conference abstracts
+
+### 2019
+**Shreedharan, S.**, Bolton, D.C., Rivière, J., Marone, C. (2019). [Laboratory earthquake prediction using supervised machine learning applied on controlled-source ultrasonic amplitudes and velocities.](https://ics.psu.edu/wp-content/uploads/2019/03/30p_srisharanweb.pdf) Institute for CyberScience Symposium 2019, Penn State. (Poster)
+
+**Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2019). The Sound of Friction: Probing Fault Microphysics During Normal Stress Variations Using Controlled-Source Ultrasonics. Seismology Student Workshop, Lamont-Doherty Earth Observatory. (Talk)
+
+### 2018
+**Shreedharan, S.**, Rivière, J., Ryan, K., Marone, C. (2018). [Precursory changes in p- and s- phase amplitudes and velocities linked to accelerated fault creep during laboratory slip instabilities.](http://adsabs.harvard.edu/abs/2018AGUFM.U11B..06S) AGU Fall Meeting 2018, Washington DC. (Invited Talk)
+
+**Shreedharan, S.**, Rivière, J., Marone, C. (2018). [Probing changes in frictional state due to normal stress perturbations using controlled-source ultrasonics.](http://adsabs.harvard.edu/abs/2018AGUFM.T11F0220S) AGU Fall Meeting 2018, Washington DC. (Poster)
+
+Rabinowitz, H.S., Savage, H.M., **Shreedharan, S.**, Ikari, M., Meneghini, F., Ito, Y., Kitajima, H., Wallace, L.M., Saffer, D.M., Petronotis, K., and the Expeditions 372/375 Scientists. (2018). [Frictional behavior of incoming sediment in the Hikurangi subduction zone at insitu PT conditions.](http://adsabs.harvard.edu/abs/2018AGUFM.T51I0300R) AGU Fall Meeting 2018, Washington DC. (Poster)
+
+Savage, H.M., Coffey, G.L., **Shreedharan, S.**, Polissar, P.J., Fagereng, A., Meneghini, F., Morgan, J., Wang, M., Hashimoto, Y., Wallace, L.M., Saffer, D.M., Barnes, P., Pecher, I.A., Petronotis, K., LeVay, L., and the Expeditions 372/375 Scientists. (2018). [Signatures of Brittle Deformation in a Shallow Fault in the Hikurangi Subduction Margin.](http://adsabs.harvard.edu/abs/2018AGUFM.T51I0303S) AGU Fall Meeting 2018, Washington DC. (Poster)
+
+Jeppson, T., Kitajima, H., Ikari, M., Lee, H., Ito, Y., Harris, R., **Shreedharan, S.**, ..., Wallace, L.M., Saffer, D.M., Parnes, P., Pecher, I.A., Petronotis, K., LeVay, L., and the Expeditions 372/375 Scientists. (2018). [Lithology and cement controls on the evolution of compressional wave velocity and porosity in input materials at northern Hikurangi and other subduction zones.]() AGU Fall Meeting 2018, Washington DC. (Poster)
+
+Ryan, K., **Shreedharan, S.** (2018). [Rubbing and pressing rocks together with a big computer controlled press to learn about the times when the ground shakes a lot as pieces of the world move around.](http://adsabs.harvard.edu/abs/2018AGUFMED21B..08R) AGU Fall Meeting 2018, Washington DC. (Talk)
+
+**Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2018). The Sound of Friction: Probing Fault Microphysics During Normal Stress Variations Using Controlled-Source Ultrasonics. Penn State Geodynamics Seminar. (Talk)
+
+**Shreedharan, S.**, Rivière, J., Marone, C. (2018). Precursory Changes in p- and s- Phase Amplitudes and Velocities Linked to Accelerated Fault Creep During Laboratory Slip Instabilities. Gordon Research Conference on Rock Deformation 2018. (Poster)
+
+### 2017
+**Shreedharan, S.**, Rivière, J., Marone, C. (2017). [Frictional Response of Simulated Faults to Normal Stress Perturbations probed with Ultrasonic Waves.](http://adsabs.harvard.edu/abs/2017AGUFM.S43B0849S) AGU Fall Meeting 2017, New Orleans. (Poster)
+
+**Shreedharan, S.**, Rivière, J., Bolton, C., Zheng, L., Johnson, P., Marone, C. [Characterization of Acoustic Emissions From Laboratory Stick-Slip Events in Simulated Fault Gouge.](https://www.onepetro.org/download/conference-paper/ARMA-2017-0362?id=conference-paper%2FARMA-2017-0362) ARMA Symposium - 51th US Rock Mechanics Symposium, Houston. (Talk)
+
+**Shreedharan, S.**, Rivière, J., Marone, C. (2017). Frictional Response of Simulated Faults to Normal Stress Perturbations probed with Ultrasonic Waves. 49th Annual Geosciences Graduate Student Colloquium. Pennsylvania State University. (Talk)
+
+### 2016
+**Shreedharan, S.**, Kulatilake, P. H. S. W. (2016). [Distinct Element Method Based Stability Analysis of Tunnels in a Deep Coal Mine in China.](https://www.onepetro.org/download/conference-paper/ARMA-2016-137?id=conference-paper%2FARMA-2016-137) ARMA Symposium - 50th US Rock Mechanics Symposium, Houston. (Poster)
+
+Kulatilake, P. H. S. W., **Shreedharan, S.**, Huang, G., Cai, S., Song, H. (2016). [3-D Discontinuum Numerical Modeling of Ore Extraction, Backfilling and Subsidence in an Underground Iron Mine in China.](https://www.onepetro.org/download/conference-paper/ARMA-2016-355?id=conference-paper%2FARMA-2016-355) ARMA Symposium - 50th US Rock Mechanics Symposium, Houston. (Talk)
