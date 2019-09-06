@@ -1,4 +1,4 @@
-## Publications
+Title: Publications
 
 ### 2019:
 **Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2019). [Frictional State Evolution
