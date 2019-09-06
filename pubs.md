@@ -27,3 +27,12 @@ Ram Chandar, K., Sastry, V. R., Hegde, C., **Shreedharan, S.** (2016). [Predicti
 
 ### 2014:
 **Shreedharan, S.**, Hegde, C., Sharma, S., Vardhan, H. (2014). [Acoustic Fingerprinting for Rock Identification during Drilling.](https://www.inderscienceonline.com/doi/full/10.1504/IJMME.2014.060193) _International Journal of Mining and Mineral Engineering,5_(2), 89-105.
+
+## Technical reports 
+
+### 2019
+Wallace, L. M., Saffer, D. M., Barnes, P. M., Pecher, I. A., Petronotis, K. E., LeVay, L. J., and the **Expedition 372/375 Scientists**. (2019). [Hikurangi Subduction Margin Coring, Logging, and Observatories.](http://publications.iodp.org/proceedings/372B_375/372B375title.html) Proceedings of the International Ocean Discovery Program, 372B/375: College Station, TX (International Ocean Discovery Program).
+
+### 2018
+
+Saffer, D. M., Wallace, L. M., Petronotis, K., and the **Expedition 375 Scientists**. (2018). [Expedition 375 Preliminary Report: Hikurangi Subduction Margin Coring and Observatories.](http://publications.iodp.org/preliminary_report/375/375PR.PDF) International Ocean Discovery Program.
