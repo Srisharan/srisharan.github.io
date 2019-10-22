@@ -26,7 +26,7 @@ navbar-links:
   Research: "aboutme"
   CV: "Srisharan_CV.pdf"
   Publications: "pubs"
-  Teaching: "teaching"
+#  Teaching: "teaching"
   Resources:
     - Google Scholar: "https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en&oi=ao"
     - Penn State Rock Mechanics: "http://www.rockmechanics.psu.edu/"
