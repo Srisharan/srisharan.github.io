@@ -5,7 +5,8 @@ subtitle:
 ---
 
 ## Micromechanics of frictional sliding
-[Micromechanics of sliding friction][img/Friction.png]
+
+![Micromechanics of sliding friction](img/Friction.png)
 
 ## Earthquake precursors and prediction
 
