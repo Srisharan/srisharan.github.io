@@ -16,6 +16,8 @@ Earthquake prediction has been a longstanding problem in seismology. Many initia
 
 ![Amplitude precursor](img/Precursor.png)
 
+Recent works include [Shreedharan et. al. (2020)](https://doi.org/10.1029/2020GL086986) and [Bolton et al. (2020)](https://doi.org/10.1029/2019JB018975).
+
 ## Friction and hydrology of shallow slow slip
 While slow earthquakes, both shallow and deep, are now well documented, the frictional and hydrologic behavior of the rocks and sediments participating in slow earthquake rupture are not well constrained. It is particularly important to study these shallow slow earthquakes since they have been shown to alter the local stress state, which has implications for the nucleation of tsunamigenic earthquakes. I study the frictional stability and permeability evolution of sediments from the northern Hikurangi margin, recovered during [IODP expedition 375](http://publications.iodp.org/proceedings/372B_375/372B375title.html), to understand the key ingerdients necessary to host shallow slow slip. I am also interested in quantifying the effects of seamount subduction on modulating the slip behavior of this subduction margin. 
 
