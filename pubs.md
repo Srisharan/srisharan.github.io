@@ -6,6 +6,14 @@ subtitle:
 
 ## Peer-reviewed journals
 
+
+### 2020:
+Bolton, D. C., **Shreedharan, S.**, Rivière, J., Marone, C. (2020). [Acoustic energy release during the laboratory seismic cycle: Insights on laboratory earthquake precursors and prediction.](https://doi.org/10.1029/2019JB018975) _Journal of Geophysical Research: Solid Earth_.
+
+**Shreedharan, S.**, Bolton, D. C., Rivière, J., Marone, C. (2020). [Preseismic fault creep and elastic wave amplitude precursors scale with lab earthquake magnitude for the continuum of tectonic failure modes.](https://doi.org/10.1029/2020GL086986) _Geophysical Research Letters, 47_(8).
+
+Barnes, P., et al. [IODP Expedition 372/375 Scientists, including **Shreedharan, S.**]. (2020). [Slow slip source characterized by lithological and geometric heterogeneity.](https://advances.sciencemag.org/content/6/13/eaay3314/tab-pdf) _Science Advances, 6_(13).
+
 ### 2019:
 **Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2019). [Frictional State Evolution
 during Normal Stress Perturbations Probed with Ultrasonic Waves.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016885) _Journal of Geophysical Research: Solid Earth_, 124, 5469– 5491.  
@@ -39,6 +47,12 @@ Saffer, D. M., Wallace, L. M., Petronotis, K., and the **Expedition 375 Scientis
 ## Conference abstracts
 
 ### 2019
+**Shreedharan, S.**, Bolton, D. C., Rivière, J., Marone, C. (2019). [The Physics of Elastic Precursors to Laboratory Earthquakes.](https://ui.adsabs.harvard.edu/abs/2019AGUFMMR14A..08S/abstract) AGU Fall Meeting 2019, San Francisco. (Talk)
+
+Bolton, D. C., **Shreedharan, S.**, Rivière, J., Shokouhi, P., Marone, C. (2019). [Frequency content of lab earthquakes for the spectrum of failure modes, from slow slip to elastodynamic rupture.](https://ui.adsabs.harvard.edu/abs/2019AGUFMMR11B0035B/abstract) AGU Fall Meeting 2019, San Francisco. (Poster)
+
+Cebry, S. B. L., Ke, C. Y., **Shreedharan, S.**, Marone, C., Kammer, D. S., McLaskey, G. (2019). [Laboratory observations of frictional stability and fault zone evolution under heterogeneous friction, rheology, and stress conditions.](https://ui.adsabs.harvard.edu/abs/2019AGUFMMR11B0035B/abstract) AGU Fall Meeting 2019, San Francisco. (Talk)
+
 **Shreedharan, S.**, Bolton, D.C., Rivière, J., Marone, C. (2019). [Laboratory earthquake prediction using supervised machine learning applied on controlled-source ultrasonic amplitudes and velocities.](https://ics.psu.edu/wp-content/uploads/2019/03/30p_srisharanweb.pdf) Institute for CyberScience Symposium 2019, Penn State. (Poster)
 
 **Shreedharan, S.**, Rivière, J., Bhattacharya, P., Marone, C. (2019). The Sound of Friction: Probing Fault Microphysics During Normal Stress Variations Using Controlled-Source Ultrasonics. Seismology Student Workshop, Lamont-Doherty Earth Observatory. (Talk)
