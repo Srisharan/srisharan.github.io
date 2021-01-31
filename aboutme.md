@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research themes
-subtitle: 
+subtitle: [New preprint on using machine learning to predict complex lab seismicity!](https://www.essoar.org/doi/abs/10.1002/essoar.10505562.1)
 ---
 
 ## Micromechanics of frictional sliding
@@ -15,8 +15,6 @@ Also see [Shreedharan et. al. (2019)](https://agupubs.onlinelibrary.wiley.com/do
 Earthquake prediction has been a longstanding problem in seismology. Many initiatives in the past four decades have searched for robust precursory signatures to inform us about imminent earthquakes. I study the amplitudes and velocities of active ultrasonic pulses as well as passive acoustic emission signatures to quantify precursory behaviors prior to slow and fast laboratory earthquakes. I am particularly interested in the physical mechanisms responsible for these precursors, and the scaling relationships that govern the size and temporal onset of seismic precursors. More recently, I have also started exploring the feasibility of incorporating machine learning techniques to predict fault failure, using these active and passive precursory signatures.
 
 ![Amplitude precursor](img/Precursor.png)
-
-[New preprint on using machine learning to predict complex lab seismicity!](https://www.essoar.org/doi/abs/10.1002/essoar.10505562.1)
 
 Also see [Shreedharan et. al. (2021)](https://www.sciencedirect.com/science/article/pii/S0012821X20305677), [Shreedharan et. al. (2020)](https://doi.org/10.1029/2020GL086986) and [Bolton et al. (2020)](https://doi.org/10.1029/2019JB018975).
 
