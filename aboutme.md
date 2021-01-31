@@ -9,17 +9,20 @@ Fault frictional stability is usually described in the context of slip weakening
 
 ![Micromechanics of sliding friction](img/Friction.png)
 
-Recent works include [Shreedharan et. al. (2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016885).
+Also see [Shreedharan et. al. (2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016885).
 
 ## Earthquake precursors and prediction
 Earthquake prediction has been a longstanding problem in seismology. Many initiatives in the past four decades have searched for robust precursory signatures to inform us about imminent earthquakes. I study the amplitudes and velocities of active ultrasonic pulses as well as passive acoustic emission signatures to quantify precursory behaviors prior to slow and fast laboratory earthquakes. I am particularly interested in the physical mechanisms responsible for these precursors, and the scaling relationships that govern the size and temporal onset of seismic precursors. More recently, I have also started exploring the feasibility of incorporating machine learning techniques to predict fault failure, using these active and passive precursory signatures.
 
 ![Amplitude precursor](img/Precursor.png)
 
-Recent works include [Shreedharan et. al. (2020)](https://doi.org/10.1029/2020GL086986) and [Bolton et al. (2020)](https://doi.org/10.1029/2019JB018975).
+[New preprint on using machine learning to predict complex lab seismicity!](https://www.essoar.org/doi/abs/10.1002/essoar.10505562.1)
+
+Also see [Shreedharan et. al. (2021)](https://www.sciencedirect.com/science/article/pii/S0012821X20305677), [Shreedharan et. al. (2020)](https://doi.org/10.1029/2020GL086986) and [Bolton et al. (2020)](https://doi.org/10.1029/2019JB018975).
 
 ## Friction and hydrology of shallow slow slip
 While slow earthquakes, both shallow and deep, are now well documented, the frictional and hydrologic behavior of the rocks and sediments participating in slow earthquake rupture are not well constrained. It is particularly important to study these shallow slow earthquakes since they have been shown to alter the local stress state, which has implications for the nucleation of tsunamigenic earthquakes. I study the frictional stability and permeability evolution of sediments from the northern Hikurangi margin, recovered during [IODP expedition 375](http://publications.iodp.org/proceedings/372B_375/372B375title.html), to understand the key ingerdients necessary to host shallow slow slip. I am also interested in quantifying the effects of seamount subduction on modulating the slip behavior of this subduction margin. 
 
 ![Hikurangi slow slip](img/Hik.png)
 
+Also see exciting research by [Ake Fagereng](https://pubs.geoscienceworld.org/gsa/geology/article/47/9/872/572583/Mixed-deformation-styles-observed-on-a-shallow) and [Phil Barnes](https://advances.sciencemag.org/content/6/13/eaay3314?intcmp=trendmd-adv).
