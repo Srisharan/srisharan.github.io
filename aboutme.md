@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Research themes
-subtitle: [New preprint on using machine learning to predict complex lab seismicity!](https://www.essoar.org/doi/abs/10.1002/essoar.10505562.1)
+subtitle: 
 ---
+
+[New preprint on using machine learning to predict complex lab seismicity!](https://www.essoar.org/doi/abs/10.1002/essoar.10505562.1)
 
 ## Micromechanics of frictional sliding
 Fault frictional stability is usually described in the context of slip weakening or rate-state friction which do not fully describe the range of observations documented in nature and in the laboratory. Moreover, these description do not fully capture the complex behaviors at the nano- to microscope asperity scale elastic and plastic deformations. I perform continuous ultrasonic monitoring and study the temporal evolution of elastic wave amplitudes and velocities to better understand the microscopic origins of fault friction. This is particularly important for better understanding the physics of static and dynamic triggering, rupture nucleation and propagation, and aseismic creep and slow slip.
