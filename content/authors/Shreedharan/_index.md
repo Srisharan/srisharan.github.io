@@ -48,7 +48,7 @@ social:
     link: 'mailto:srisharan.shreedharan@usu.edu'
   - icon: cv
     icon_pack: ai
-    link: /files/cv_Shreedharan.pdf
+    link: files/cv_Shreedharan.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aVqfm9kAAAAJ&hl=en
